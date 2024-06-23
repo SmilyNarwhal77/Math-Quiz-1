@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title> DIFFICULTY LEVEL 1  (EASY) </title>
+		<script>
+		 	alert("Moo") ;
+		</script>
+		<link rel="stylesheet" href="idk.css">
+	</head>
+	Q1:What is 1+1?
+	<li><a href="file:///C:/Users/User/OneDrive/Desktop/Wrong%20Answer.html">a) 11</a> 
+	<li><a href="file:///C:/Users/User/OneDrive/Documents/2.html">b) 2</a>
+	<li><a href="file:///C:/Users/User/OneDrive/Desktop/Wrong%20Answer.html">a) 3</a></li> 
+	Q2: What is 3 x 4?
+	<li><a href="file:///C:/Users/User/OneDrive/Desktop/Wrong%20Answer.html">a) 34</a> 
+	<li><a href="file:///C:/Users/User/OneDrive/Desktop/Wrong%20Answer.html">a) 7</a>
+	<li><a href="file:///C:/Users/User/OneDrive/Documents/2.html">b) 12</a> </li>
+	</body>
+</html>
